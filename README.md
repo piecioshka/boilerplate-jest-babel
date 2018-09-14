@@ -1,11 +1,11 @@
 # test-jest
 
-> :ledger: Test specs build with [`test-jest`](https://facebook.github.io/jest/).
+:ledger: Test specs build with [`test-jest`](https://facebook.github.io/jest/).
 
-## Setup
+## Installation
 
-```
-$ npm install
-$ npm test
+```bash
+npm install
+npm test
 ```
 
