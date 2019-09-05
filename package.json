@@ -6,6 +6,6 @@
         "test": "jest"
     },
     "devDependencies": {
-        "jest-cli": "^0.4.5"
+        "jest": "^24.9.0"
     }
 }
