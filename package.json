@@ -1,7 +1,14 @@
 {
   "private": true,
   "name": "boilerplate-jest-babel",
+  "description": "",
   "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Piotr Kowalski",
+    "email": "piecioshka@gmail.com",
+    "url": "https://piecioshka.pl/"
+  },
   "scripts": {
     "test": "jest",
     "coverage": "jest --coverage"
