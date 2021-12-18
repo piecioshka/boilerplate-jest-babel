@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "test-jest",
+    "name": "boilerplate-jest",
     "version": "0.0.0",
     "scripts": {
         "test": "jest"

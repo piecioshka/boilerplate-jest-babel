@@ -1,6 +1,6 @@
-# test-jest
+# boilerplate-jest
 
-:ledger: Test specs build with [`test-jest`](https://facebook.github.io/jest/).
+:ledger: Test specs build with [`boilerplate-jest`](https://facebook.github.io/jest/).
 
 ## Unit tests
 
