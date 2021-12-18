@@ -17,5 +17,9 @@
     "@babel/preset-env": "^7.16.5",
     "@types/jest": "^27.0.3",
     "jest": "^27.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:piecioshka/boilerplate-jest-babel.git"
   }
 }
