@@ -1,4 +1,4 @@
-# boilerplate-jest
+# boilerplate-jest-babel
 
 🍴 Starter with Jest & Babel.js
 
