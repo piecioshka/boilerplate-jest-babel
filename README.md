@@ -4,8 +4,8 @@
 
 ## Features
 
-* :white_check_mark: Jest `v27.4.5`
-* :white_check_mark: Babel.js `v7.16.5`
+* :white_check_mark: Jest `v28.1.1`
+* :white_check_mark: Babel.js `v7.18.2`
 
 ## Unit tests
 
